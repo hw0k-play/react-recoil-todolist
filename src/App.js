@@ -1,7 +1,7 @@
 import React from 'react';
 import { RecoilRoot } from 'recoil';
 
-import TodoPage from './TodoPage';
+import TodoPage from './components/TodoPage';
 
 function App() {
   return (
